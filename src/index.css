@@ -31,13 +31,16 @@ code {
 }
 
 #hour {
+  transform: none;
   z-index: 10;
 }
 
 #minute {
+  transform: none;
   z-index: 100;
 }
 
 #second {
+  transform: none;
   z-index: 1000;
 }
